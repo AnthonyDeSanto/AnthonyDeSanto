@@ -1,4 +1,20 @@
-### Hi there 👋
+<h1>Hi, I'm Anthony! <br/><a href="https://github.com/AnthonyDeSanto">CyberSecurity, GRC, Cloud Sec</a></h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Soc Deployment Lab</b>
+- <b>Cloud Resume Challnege</b>
+- <b>Maleware Analysis</b>
+- <b>Vulnerability Scanner</b>
+- <b>Azure Sentinel Defender Lab</b>
+
+<h2>📺 YouTube Videos (Coming Soon</h2>
+
+<h2>🤳 Connect with me:</h2>
+
+[<img align="left" alt="AnthonyDeSanto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/ajdesanto
 
 <!--
 **AnthonyDeSanto/AnthonyDeSanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
