@@ -8,7 +8,7 @@
 - <b>Vulnerability Scanner</b>
 - <b>Azure Sentinel Defender Lab</b>
 
-<h2>📺 YouTube Videos (Coming Soon</h2>
+<h2>📺 YouTube Videos (Coming Soon)</h2>
 
 <h2>🤳 Connect with me:</h2>
 
