@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>SOC Lab Deployment</b>
-- <b>Cloud Resume Challnege</b>
+- <b>Cloud Resume Challenge</b>
 - <b>Maleware Analysis</b>
 - <b>Vulnerability Scanner</b>
 - <b>Azure Sentinel Defender Lab</b>
