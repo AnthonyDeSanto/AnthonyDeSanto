@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Soc Deployment Lab</b>
+- <b>SOC Lab Deployment</b>
 - <b>Cloud Resume Challnege</b>
 - <b>Maleware Analysis</b>
 - <b>Vulnerability Scanner</b>
