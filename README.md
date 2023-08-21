@@ -4,7 +4,6 @@
 
 - <b>SOC Lab Deployment</b>
 - <b>Cloud Resume Challenge</b>
-- <b>Maleware Analysis</b>
 - <b>Vulnerability Scanner</b>
 - <b>Azure Sentinel Defender Lab</b>
 
