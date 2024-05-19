@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anthony! <br/><a href="https://github.com/AnthonyDeSanto">Information Security</a></h1>
+<h1>InfoSec<br/><a href="https://github.com/AnthonyDeSanto"></a></h1>
 
 <h2>What's here?</h2>
 
