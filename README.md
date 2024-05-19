@@ -2,12 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>SOC Lab Deployment</b>
-- <b>Cloud Resume Challenge</b>
-- <b>Vulnerability Scanner</b>
-- <b>Azure Sentinel Defender Lab</b>
-
-<h2>📺 YouTube Videos (Coming Soon)</h2>
+- <b>DFIR</b>
 
 <h2>🤳 Connect with me:</h2>
 
