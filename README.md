@@ -1,4 +1,4 @@
-<h1>InfoSec<br/><a href="https://github.com/AnthonyDeSanto"></a></h1>
+<h1>Information Security<br/><a href="https://github.com/AnthonyDeSanto"></a></h1>
 
 <h2>What's here?</h2>
 
