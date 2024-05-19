@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anthony! <br/><a href="https://github.com/AnthonyDeSanto">CyberSecurity, GRC, Cloud Sec</a></h1>
+<h1>Hi, I'm Anthony! <br/><a href="https://github.com/AnthonyDeSanto">Information Security</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
